@@ -1,5 +1,4 @@
-# Medium
-
+# uBloggi
 This is a Medium.com clone. I built it in AngularJS and Laravel, and it took about 2-3 months.
 
 Check out the walk-through [here](https://www.youtube.com/watch?v=n-vsNmj5AcY&feature=youtu.be).
